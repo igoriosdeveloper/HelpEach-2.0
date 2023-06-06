@@ -1,0 +1,6 @@
+framework module Pods_helpeachTests {
+  umbrella header "Pods-helpeachTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

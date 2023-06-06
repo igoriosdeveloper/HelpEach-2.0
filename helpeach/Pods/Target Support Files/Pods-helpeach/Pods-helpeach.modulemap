@@ -1,0 +1,6 @@
+framework module Pods_helpeach {
+  umbrella header "Pods-helpeach-umbrella.h"
+
+  export *
+  module * { export * }
+}
